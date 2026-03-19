@@ -29,3 +29,6 @@ Get-Content "$env:LOCALAPPDATA\UnrealEditorFortnite\Saved\Logs\UnrealEditorFortn
 
 ## Project Info
 This project is kept intentionally lean to provide a distraction-free debugging environment.
+
+> [!NOTE]
+> This project was built with the assistance of AI (Gemini by Google).
